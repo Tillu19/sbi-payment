@@ -1,5 +1,6 @@
 public class Msg{
 	public static void main(String[] args){
 		System.out.println("Welcome to Msg app");
+		System.out.println("Welcome to pythonlife app");
 	}
 }
