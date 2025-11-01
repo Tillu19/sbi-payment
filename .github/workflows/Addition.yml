@@ -17,7 +17,7 @@ jobs:
           java-version: '17'        # Java version number
 
       - name: Compile Java program
-        run: javac Add.java
+        run: javac Addition.java
 
       - name: Run Java program
-        run: java Add
+        run: java Addition
